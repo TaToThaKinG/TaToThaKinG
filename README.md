@@ -1,5 +1,5 @@
 - 👋 Hi, I’m TaTo (Antwone D)
-- My current languages include HTML and CSS, Javascript
+- My current languages include HTML/CSS and Javascript
 - 💞️ I’m looking to collaborate on any and all projects within and also outside of the above langugages.
 - You can contact me on Twitter:Tatothaking or Email: Adockery1119@gmail.com
 
