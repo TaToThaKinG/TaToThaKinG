@@ -11,6 +11,7 @@ I enjoy hiking and being out in nature. The other side of me enjoys most things 
 - ⚛️  React 
 
 ## Random
+<img src="https://github.com/TaToThaKinG/TaToThaKinG/blob/main/meditate-patrick-star.gif" width="256">
  
 - 🔭 I’m currently working on mastering Javascript/React 
 - 👯 I’m looking to collaborate on projects of all kinds 
