@@ -7,8 +7,10 @@ I enjoy hiking and being out in nature. The other side of me enjoys most things 
 
 ## Skills
 
- 💻  HTML | CSS | JavaScript | 
- ⚛️  React |
+- 💻  HTML | CSS | JavaScript 
+- ⚛️  React 
+
+## Random
  
 - 🔭 I’m currently working on mastering Javascript/React 
 - 👯 I’m looking to collaborate on projects of all kinds 
